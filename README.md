@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <br/>
 💼  Former Accountant
 <br/>
-🎓  Graduate of Universtiy of California, Santa Barbara and App Academy
-
-🏋️‍♂️ Fun fact: I am a nationally ranked powerlifter in the USAPL
+🎓  Universtiy of California, Santa Barbara & App Academy
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
