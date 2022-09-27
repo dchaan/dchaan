@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <br/>
 💼  Former Accountant
 <br/>
-🎓  Universtiy of California, Santa Barbara & App Academy
+🎓  Universtiy of California, Santa Barbara
+<br/>
+🎓 App Academy
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
