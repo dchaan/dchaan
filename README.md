@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 💼  Former Accountant
 <br/>
-🎓  Universtiy of California, Santa Barbara
+🎓  Universtiy of California, Santa Barbara - B.A. Economics & Accounting
 <br/>
 🎓 App Academy
 
